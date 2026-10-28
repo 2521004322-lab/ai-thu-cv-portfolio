@@ -63,3 +63,7 @@ Nếu Netlify yêu cầu tải thư mục dưới dạng ZIP, hãy nén nội du
 ## Ghi chú
 
 Google Fonts cần kết nối internet để tải font. Website vẫn dùng font dự phòng nếu không có kết nối.
+
+
+### Ảnh đại diện
+Ảnh hồ sơ được lưu tại `assets/avatar.jpg`. Để thay ảnh, thay tệp này bằng ảnh mới và giữ nguyên tên tệp.
